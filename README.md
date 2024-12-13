@@ -1,4 +1,4 @@
-- ## Approach 1:- Brute Force
+- ## Approach 1:- Brute Force (Linear Search)
     - ### Intuition:
         The problem involves selecting elements from an array based on a special scoring system where:
 
